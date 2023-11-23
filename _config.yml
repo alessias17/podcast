@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: Painting Progress:
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: The Growth and Development of the McMichael Canadian Art Collection
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "Have you ever wondered what it means to be a Canadian artist? Join us on this episode of Painting Progress, where we explore the McMichael Canadian Art Collection, an institution dedicated to the collection and curation of Canadian art. With the help of assistant curator John Geoghgan we will explore challenges of dealing with the Canadian definition and how the McMichael's approach to this topic has changed over time."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Alessia Spagnuolo and Nada Qashoa
 
 ##########
 # COLLECTION SETTINGS
